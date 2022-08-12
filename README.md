@@ -17,7 +17,7 @@ Before you open SCP-SL-AntiCheat-Reverse-Engineering.pdf, I want to thank the pe
 
 [Ahora](https://github.com/Ahora57)
 
-[Midnight](midnight.im)
+[Midnight](https://midnight.im)
 
 ### My Contacts
 - [My Blog](https://t.me/colby5engineering)
