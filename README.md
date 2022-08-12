@@ -19,6 +19,8 @@ Before you open SCP-SL-AntiCheat-Reverse-Engineering.pdf, I want to thank the pe
 
 [Midnight](https://midnight.im)
 
+[Senko](https://github.com/senko1337)
+
 ### My Contacts
 - [My Blog](https://t.me/colby5engineering)
 - [Telegram](http://t.me/netherrealmdev)
